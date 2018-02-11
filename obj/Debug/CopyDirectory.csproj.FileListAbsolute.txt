@@ -1,0 +1,7 @@
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.Properties.Resources.resources
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.csproj.GenerateResource.Cache
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe.config
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.exe
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\bin\Debug\CopyDirectory.pdb
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.exe
+c:\users\desiree dias\documents\visual studio 2012\Projects\CopyDirectory\CopyDirectory\obj\Debug\CopyDirectory.pdb
